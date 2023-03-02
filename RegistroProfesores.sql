@@ -1,4 +1,4 @@
-CREATE TABLE SalidaProfesores (
+CREATE TABLE RegistroProfesores (
     id INT PRIMARY KEY AUTO_INCREMENT,
     profesor_id INT,
     fecha_hora_entrada DATETIME,
